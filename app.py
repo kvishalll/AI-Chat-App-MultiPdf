@@ -144,4 +144,4 @@ if __name__ == "__main__":
     main()
 
 
-# streamlit run app.py 
+# To start the App - streamlit run app.py 
